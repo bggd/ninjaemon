@@ -3,6 +3,10 @@
 		"birthggd"
 	],
 	"copyright": "Copyright © 2021, birthggd",
+	"dependencies": {
+		"bindbc-opengl": "~>1.0.0",
+		"bindbc-sdl": "~>1.0.1"
+	},
 	"description": "A game",
 	"license": "BSL-1.0",
 	"name": "ninjaemon"
